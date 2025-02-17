@@ -9,11 +9,9 @@
 
 ## Mise en place
 
-La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate)
+Utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate)
 
-Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre projet. Nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
-
-Pour vérifier que tout fonctionne, ajoutez les balises HTML nécessaires à l'affichage d'un [océan](https://github.com/c-frame/aframe-extras/tree/master/src/primitives) et testez le tout dans votre browser.  
+Pour vérifier que tout fonctionne, modifiez le composant TheScene.vue pour y faire l'affichage d'un [océan](https://github.com/c-frame/aframe-extras/tree/master/src/primitives) et testez le tout dans votre browser.  
 Vous devriez obtenir un résultat proche de celui-ci : [https://vr.chabloz.eu/ocean_base.html](https://vr.chabloz.eu/ocean_base.html)
 
 <!-- ![Base océan](./img/practice/ocean-base.png) -->
